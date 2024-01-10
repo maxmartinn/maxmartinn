@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Dance Marathon Spirit App**
 
-- 🌱 [<p>I’m currently learning<p> <span class="bold">**Data Structures and Algorithims**</span>]
+- 🌱 I’m currently learning **Data Structures and Algorithims**
 
-- ⚡ {fun_fact : "Besides new tech I love learning about financial services and financial literacy."}
+- ⚡ {Fun_Fact: "Besides new tech I love learning about financial services and financial literacy"}
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
