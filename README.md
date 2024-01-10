@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max Martin</h1>
-<h3 align="center">A passionate Full Stack developer from South Florida</h3>
+<h3 align="center">A passionate Full Stack Developer from South Florida</h3>
 
 - 🔭 I’m currently working on **Dance Marathon Spirit App**
 
