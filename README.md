@@ -8,8 +8,4 @@
 - {⚡: "Besides new tech I love learning about financial services and financial literacy"}
 
 <div align="left">
-<h3 align="left">Lets Connect! <a  href="https://linkedin.com/in/max-martin1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max-martin1" height="20" width="30" /></a></h3>
-
-</div>
-
 
