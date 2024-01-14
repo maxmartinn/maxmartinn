@@ -9,7 +9,7 @@
 
 <div align="center">
 <h3 align="left">Lets Connect!</h3>
-<a href="https://linkedin.com/in/max-martin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max-martin1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/max-martin1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max-martin1" height="30" width="40" /></a>
 </div>
 
 
