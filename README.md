@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Max Martin</h1>
+<h1>Hi 👋, I'm Max Martin</h1>
 <ul>
   
 <l1>I've been coding in Python and Javascript for over 2 years</l1>  
