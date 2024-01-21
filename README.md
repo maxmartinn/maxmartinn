@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Max Martin</h1>
-<h3 align="center">A passionate Full Stack Developer from South Florida</h3>
+<ul>
+<l1>I've been coding in Python and Javascript for over 2 years</l1>  
+<l1>I am currently a Frontend Developer for Coutors</l1>  
+<l1>I am building Dance Marathon Spirit App and Chomper</l1>
+<l1>Let's connect on <a href="https://www.linkedin.com/in/max-martin1/">LinkedIn</a></l1>
+</ul>
 
-- {🔭: "I’m currently working on **Dance Marathon Spirit App**"}
-
-- {🌱: "I’m currently learning **Data Structures and Algorithims**"}
-
-- {⚡: "Besides new tech I love learning about financial services and financial literacy"}
 
 <div align="left">
 
