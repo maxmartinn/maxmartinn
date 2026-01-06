@@ -31,7 +31,7 @@
 
   <p>
     Earlier in my career at <strong>CACI</strong>, I worked on systems supporting global satellite and
-    antenna operations—building real-time dashboards, telemetry ingestion pipelines,
+    antenna operations by building real-time dashboards, telemetry ingestion pipelines,
     and containerized backend services processing data for thousands of satellites
     and 150+ ground stations worldwide.
   </p>
@@ -44,7 +44,7 @@
 
   <p>
     I’m especially interested in backend engineering, cloud infrastructure,
-    and developer tooling—roles where I can own systems end-to-end and deliver
+    and developer tooling, roles where I can own systems end-to-end and deliver
     software with real operational impact.
   </p>
 
